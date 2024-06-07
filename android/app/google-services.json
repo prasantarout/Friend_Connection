@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372653028412",
+    "project_id": "tigerconnect-50022",
+    "storage_bucket": "tigerconnect-50022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372653028412:android:a3629fb14a58be8a033f39",
+        "android_client_info": {
+          "package_name": "com.tigerconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKIxRT6DG09DebGhRfQXgjHg-knfAAM9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
